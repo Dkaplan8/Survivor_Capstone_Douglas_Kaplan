@@ -112,4 +112,3 @@ Contact Information: Douglasjkaplan@gmail.com
 LinkedIn: https://www.linkedin.com/in/douglas-kaplan/
 Date: 10/18/24
 
-
