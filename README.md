@@ -1,7 +1,7 @@
 Survivor Data Analysis
 This project provides a comprehensive analysis of contestants from the CBS reality show Survivor. The dataset includes information about contestants' performances, including challenge wins, jury votes, home states, professions, and more. This analysis aims to uncover interesting trends and insights about the players and their performance across different seasons.
 
-Table of Contents
+Table of Contents 
 Project Overview
 Data Sources
 Installation
@@ -104,3 +104,12 @@ Create your feature branch: git checkout -b feature/my-feature
 Commit your changes: git commit -m 'Add some feature'
 Push to the branch: git push origin feature/my-feature
 Open a pull request
+
+This analysis was performed as a capstone graduation project at Nashville Software School- Cohort DA12
+
+Project Maintainer: Douglas Kaplan
+Contact Information: Douglasjkaplan@gmail.com
+LinkedIn: https://www.linkedin.com/in/douglas-kaplan/
+Date: 10/18/24
+
+
