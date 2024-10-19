@@ -1,4 +1,4 @@
-Survivor Data Analysis
+# Survivor Data Analysis
 This project provides a comprehensive analysis of contestants from the CBS reality show Survivor. The dataset includes information about contestants' performances, including challenge wins, jury votes, home states, professions, and more. This analysis aims to uncover interesting trends and insights about the players and their performance across different seasons.
   	
 Table of Contents 
