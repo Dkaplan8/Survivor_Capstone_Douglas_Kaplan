@@ -107,6 +107,12 @@ Open a pull request
 
 This analysis was performed as a capstone graduation project at Nashville Software School- Cohort DA12
 
+https://public.tableau.com/app/profile/douglas.kaplan/viz/SurvivorCapstoneFinal/FINISHEDCAPSTONE
+
+https://sites.google.com/view/survivorcapstonedouglaskaplan/home
+
+https://www.canva.com/design/DAGRJMZGJqI/kuvjaeQ1wNa8nvEiuKCkjQ/view?utm_content=DAGRJMZGJqI&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 Project Maintainer: Douglas Kaplan
 Contact Information: Douglasjkaplan@gmail.com
 LinkedIn: https://www.linkedin.com/in/douglas-kaplan/
