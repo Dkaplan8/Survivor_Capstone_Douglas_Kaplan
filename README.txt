@@ -12,8 +12,9 @@ Visualizations
 Technologies Used
 Contributing
 License
-Project Overview
 
+
+Project Overview
 
 The goal of this project is to explore the characteristics of Survivor contestants, examine the factors that contribute to winning the game, and analyze trends related to player performance. The project focuses on several dimensions, such as:
 
